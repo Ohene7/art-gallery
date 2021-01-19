@@ -25,11 +25,11 @@ span {
 }
 #page-2 { 
   background-color: var(--page-2-color); 
-  background: url("img/mona.jpg") no-repeat center center/cover;
+  background: url("./img/mona.jpg") no-repeat center center/cover;
 }
 #page-3 { 
   background-color: var(--page-3-color); 
-  background: url("/img/magi.jpg") no-repeat center center/cover;
+  background: url("./img/magi.jpg") no-repeat center center/cover;
 }
 #page-4 { 
   background-color: var(--page-4-color); 
@@ -37,7 +37,7 @@ span {
 }
 #page-5 { 
   background-color: var(--page-4-color); 
-  background: url("../img/vangogh.jpg") no-repeat center center/cover;
+  background: url("./img/vangogh.jpg") no-repeat center center/cover;
 }
 #page-6 { 
   background-color: var(--page-4-color); 
