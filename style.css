@@ -41,12 +41,16 @@ span {
 }
 #page-6 { 
   background-color: var(--page-4-color); 
-  background: url("./img/flowers.jpg") no-repeat center center/cover;
+  background: url("./img/egypt.jpg") no-repeat center center/cover;
 }
 #page-7 { 
+  background-color: var(--page-4-color); 
+  background: url("./img/flowers.jpg") no-repeat center center/cover;
+}
+#page-8 { 
   background-color: var(--page-1-color);
 }
-#page-7 i {
+#page-8 i {
   color: #fff;
 }
  
@@ -63,7 +67,7 @@ span {
 }
 
 .page-inner {
-  background-color: rgba(0, 0, 0, 0.603);
+  background-color: rgba(0, 0, 0, 0.767);
   color: #fff;
   width: 600px;
   padding: 3rem;
@@ -72,7 +76,7 @@ span {
 }
 
 .page-inner-2 {
-  background-color: rgba(0, 0, 0, 0.603);
+  background-color: rgba(0, 0, 0, 0.767);
   color: #fff;
   width: 600px;
   padding: 3rem;
